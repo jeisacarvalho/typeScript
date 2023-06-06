@@ -1,3 +1,6 @@
+
+export { };
+
 // ==> Exemplo 01 - Uso simples de Tuplas em TypeScript
 let pessoa;
 pessoa = ['Glaucia Lemos', 'Cloud Advocate JavaScript', 34];
